@@ -12,7 +12,7 @@ public:
 		int len = strlen(myname) + 1;
 		name = new char[len];
 		strcpy(name, myname);
-		age = myage;r	}
+		age = myage;	}
 	void ShowPersonInfo() const {
 		cout << "Name: " << this->name<<endl;
 		cout << "Age: " << this->age << endl;
