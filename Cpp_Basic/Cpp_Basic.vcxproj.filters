@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="EmployeeManager1.cpp">
+    <ClCompile Include="UnivStudentInheri.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
