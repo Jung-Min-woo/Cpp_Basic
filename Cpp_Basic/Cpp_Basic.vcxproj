@@ -19,7 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exception.cpp" />
+    <ClCompile Include="airline.cpp" />
+    <ClCompile Include="airline.h" />
+    <ClCompile Include="airlinemain.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

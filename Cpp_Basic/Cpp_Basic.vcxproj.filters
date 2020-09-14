@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exception.cpp">
+    <ClCompile Include="airline.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="airline.h">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="airlinemain.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
