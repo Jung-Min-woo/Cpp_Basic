@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="low_level_conversion.cpp">
+    <ClCompile Include="sting_view.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
